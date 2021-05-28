@@ -1,3 +1,3 @@
-#' Oggetto sf della regione veneto
+#' Oggetto sf della regione italia
 #'
 "italia"

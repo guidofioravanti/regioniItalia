@@ -3,7 +3,7 @@
 \docType{data}
 \name{italia}
 \alias{italia}
-\title{Oggetto sf della regione veneto}
+\title{Oggetto sf della regione italia}
 \format{
 An object of class \code{sf} (inherits from \code{data.frame}) with 1 rows and 101 columns.
 }
@@ -11,6 +11,6 @@ An object of class \code{sf} (inherits from \code{data.frame}) with 1 rows and 1
 italia
 }
 \description{
-Oggetto sf della regione veneto
+Oggetto sf della regione italia
 }
 \keyword{datasets}
